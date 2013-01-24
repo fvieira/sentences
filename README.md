@@ -74,6 +74,8 @@ For example, if you're thinking of taking sentences from a Japanese learning web
 please ask them whether they allow it, because probably they won't since they had to come up with those sentences
 themselves and their business model might depend on those sentences being restricted to their site.
 
+Oh, and this is not a rule, but if you are not native to a language but want to add sentences in that language either way, you might want to use [Lang-8](http://lang-8.com/) to make sure you are not making any mistake.
+
 #### How
 
 The preferred method to contribute to the sentences file is to fork this repository,
@@ -93,7 +95,7 @@ If I think they have a problem that is too cumbersome for me to solve I will ref
 but as long as the sentences and their translations are correct that should not happen.
 
 
-If you feel this is too hard for you but you still want to contribute, 
+If you feel this is too hard for you but you still want to contribute,
 you can send me an email with the sentences you want me to add, or the changes for me to make.
 
 But that makes it harder for me to manage the changes,
