@@ -1,0 +1,20 @@
+JP: 病院は私の家にかなり近いです
+EN: The hospital is very close to my house
+
+JP: 私は朝ごはんに牛乳を飲むことがすきです
+EN: I like to drink milk at breakfast
+
+JP: スーパーは行きやすいです
+EN: Going to the supermarket is easy
+
+JP: 明日、映画館に行くつもりです
+EN: Tomorrow, I plan to go to the cinema
+
+JP: 明日、映画を見に行きます
+EN: Tomorrow, I will go see a movie
+
+JP: 日本語を毎日勉強します
+EN: I study Japanese everyday
+
+JP: 日本語は難しい、でも大好きです
+EN: Japanese is hard, but I love it
