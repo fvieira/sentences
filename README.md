@@ -1,3 +1,5 @@
+**WARNING:** This project died as soon as it was born. No sentences were added to the file, and no applications were developed. The idea still has some value, however, so feel free to fork this and make it work!
+
 About
 =====
 
@@ -46,7 +48,7 @@ Also, a group can have more than one sentence of a given language, as long as th
 Applications
 ============
 
-There are currently no applications that use this file, but there will be some very soon.
+There are currently no applications that use this file, but there will be some very soon. (see WARNING at the top)
 
 
 Planned applications
